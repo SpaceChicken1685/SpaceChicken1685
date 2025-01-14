@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SpaceChicken1685
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning in QA Studio
-- 📫 How to reach me tg:@yuriy01010101
+- 👋 Привет, меня зовут Юрий.
+- 👀 Мне интересно тестирование
+- 🌱 Обучаюсь в QA Studio
+- 📫 Как связаться со мной tg:@yuriy01010101
 
 <!---
 SpaceChicken1685/SpaceChicken1685 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
